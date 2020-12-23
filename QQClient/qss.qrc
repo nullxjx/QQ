@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/default.css</file>
+        <file>qss/scrollbar.qss</file>
+    </qresource>
+</RCC>
