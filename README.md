@@ -23,9 +23,8 @@
 整个程序基于C/S模型实现，程序运行过程中有一台服务器和多台客户端。客户端之间不能直接通信，
 所有的消息都必须先经过服务器，服务器对消息进行解析，根据消息类型做出相应的处理。服务器在整个过程中充当着中转站的角色。程序整体架构如下：
 
-<img src="./Screenshots/Snipaste_2020-12-23_16-29-54.png"  />
-
-<img src="./Screenshots/Snipaste_2020-12-23_16-33-15.png" style="zoom: 60%;" />
+![](./Screenshots/Snipaste_2020-12-23_16-29-54.png)
+![](./Screenshots/Snipaste_2020-12-23_16-33-15.png)
 
 
 ## UI设计
