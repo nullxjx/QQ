@@ -331,7 +331,8 @@ void ClientSocket::sltReadyRead()
 其中不同的函数负责处理不同类型的消息。
 
 ## At last
-整个程序也是边学学边做的，期间也参考了一些网上的代码，所以现在发出来也是为了让大家一起学习。
+整个程序也是边学学边做的，期间也参考了一些网上的代码，所以现在发出来也是为了让大家一起学习。如果你也对这个感兴趣，那么可以fork一下做出你的改进！
+另外，如果你尝试做了一些修改而不知道如何打包成exe文件给别人用时，请参考我的博客： ***[如何打包Qt GUI程序 >][Qt]***	
 
 [database1]: ./Screenshots/database1.png
 [database2]: ./Screenshots/database2.png
@@ -343,3 +344,4 @@ void ClientSocket::sltReadyRead()
 [database8]: ./Screenshots/database8.png
 [database9]: ./Screenshots/database9.png
 [database10]: ./Screenshots/database10.png
+[Qt]: https://www.cnblogs.com/njuxjx/p/13809503.html
