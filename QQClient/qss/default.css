@@ -1,0 +1,129 @@
+*{  font-family: "微软雅黑"; }
+
+
+/*滚动条样式*/
+QScrollBar:horizontal{
+    background:#C7E5D6;
+    padding:0px;
+    border-radius:6px;
+    max-height:12px;
+}
+
+QScrollBar::handle:horizontal{
+    background:#9FB7AB;
+    min-width:50px;
+    border-radius:6px;
+}
+
+QScrollBar::handle:horizontal:hover{
+    background:#5F6E66;
+}
+
+QScrollBar::handle:horizontal:pressed{
+    background:#5F6E66;
+}
+
+QScrollBar::add-page:horizontal{
+    background:none;
+}
+
+QScrollBar::sub-page:horizontal{
+    background:none;
+}
+
+QScrollBar::add-line:horizontal{
+    background:none;
+}
+
+QScrollBar::sub-line:horizontal{
+    background:none;
+}
+
+QScrollBar:vertical{
+    background:#ebeae8;
+    border-radius:6px;
+    max-width:12px;
+    margin:0px,0px,0px,0px;
+    padding:0px;
+}
+
+QScrollBar::handle:vertical{
+    background:#cac7c6;
+    min-height:50px;
+    max-height:350px;
+    border-radius:6px;
+}
+
+QScrollBar::handle:vertical:hover{
+    background:#b2b1b0;
+}
+
+QScrollBar::handle:vertical:pressed{
+    background:#b2b1b0;
+}
+
+QScrollBar::add-page:vertical{
+    background:none;
+}
+
+QScrollBar::sub-page:vertical{
+    background:none;
+}
+
+QScrollBar::add-line:vertical{
+    background:none;
+}
+
+QScrollBar::sub-line:vertical{
+    background:none;
+}
+
+QScrollArea{
+    border:0px;
+}
+/*end 滚动条样式 end*/
+
+/*
+QListView::item:hover{
+    background-color:#D9D8D7;
+}
+
+QListWidget::item:selected{
+	background:#eceae8; 
+}
+*/
+
+QListWidget{
+	outline:none;
+}
+
+QListWidget:item:hover
+{
+    border: 0px;
+}
+QListWidget::item:selected {
+    border: 0px;
+}
+
+QMenu {
+     background-color: white; /* sets background of the menu 设置整个菜单区域的背景色，我用的是白色：white*/
+     border: 1px solid white;/*整个菜单区域的边框粗细、样式、颜色*/
+}
+  
+QMenu::item {
+     /* sets background of menu item. set this to something non-transparent
+         if you want menu color and menu item color to be different */
+     background-color: transparent;
+     padding:8px 32px;/*设置菜单项文字上下和左右的内边距，效果就是菜单中的条目左右上下有了间隔*/
+     margin:0px 0px;/*设置菜单项的外边距*/
+}
+  
+QMenu::item:selected { /* when user selects item using mouse or keyboard */
+     background-color: #e2e2e2;/*这一句是设置菜单项鼠标经过选中的样式*/
+}
+
+QWidget{
+	outline:none;
+}
+
+

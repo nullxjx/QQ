@@ -1,0 +1,88 @@
+2020/10/13 15:04:39   login...
+
+to server
+/Graduation Project/Final/QQ/debug/QQ/Data/Head/100004.pngsent by:-2
+23555
+560158416
+up 900001
+01
+00002
+手册（学生版）.pdf
+1560140470
+"name": "xjx",
+            "status": 5
+        },
+        {
+            "groupid": 900003,
+            "head": "100005.png",
+            "id": 100005,
+            "name": "user5",
+            "status": 6
+        }
+    ],
+    "from": 100001,
+    "type": 50
+}
+
+
+        "head": "100009.png",
+            "id": 100009,
+            "name": "user9",
+            "status": 6
+        }
+    ],
+    "from": 100001,
+    "type": 50
+}
+
+
+        "head": "100009.png",
+            "id": 100009,
+            "name": "user9",
+            "status": 6
+        }
+    ],
+    "from": 100001,
+    "type": 50
+}
+
+
+        "head": "100005.png",
+            "id": 100005,
+            "name": "user5",
+            "status": 5
+        },
+        {
+            "groupid": 900003,
+            "head": "100006.png",
+            "id": 100006,
+            "name": "user6",
+            "status": 6
+        },
+        {
+            "groupid": 900003,
+            "head": "100007.png",
+            "id": 100007,
+            "name": "user7",
+            "status": 6
+        },
+        {
+            "groupid": 900003,
+            "head": "100008.png",
+            "id": 100008,
+            "name": "user8",
+            "status": 6
+        },
+        {
+            "groupid": 900003,
+            "head": "100009.png",
+            "id": 100009,
+            "name": "user9",
+            "status": 6
+        }
+    ],
+    "from": 100001,
+    "type": 50
+}
+
+

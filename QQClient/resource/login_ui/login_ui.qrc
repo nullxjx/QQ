@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/loginwnd">
+        <file alias="login_bkg_0">login_bkg/img_0.png</file>
+        <file alias="login_bkg_1">login_bkg/img_1.png</file>
+        <file alias="login_bkg_2">login_bkg/img_2.png</file>
+        <file alias="login_bkg_3">login_bkg/img_3.png</file>
+        <file alias="login_bkg_4">login_bkg/img_4.png</file>
+        <file alias="logo-QQ">logo-QQ.png</file>
+        <file alias="bk_shadow">login_bkg/bk_shadow.png</file>
+        <file alias="win_border">win_border.png</file>
+        <file alias="close_hover">menu_btn/close_hover.png</file>
+        <file alias="close_normal">menu_btn/close_normal.png</file>
+        <file alias="close_press">menu_btn/close_press.png</file>
+        <file alias="min_hover">menu_btn/min_hover.png</file>
+        <file alias="min_normal">menu_btn/min_normal.png</file>
+        <file alias="min_press">menu_btn/min_press.png</file>
+        <file alias="set_hover">menu_btn/set_hover.png</file>
+        <file alias="set_normal">menu_btn/set_normal.png</file>
+        <file alias="set_press">menu_btn/set_press.png</file>
+        <file alias="defalut_head">head/defalut_head.png</file>
+        <file alias="head_bkg_shadow">head/head_bkg_shadow.png</file>
+        <file alias="head_bkg_highlight">head/head_bkg_highlight.png</file>
+        <file alias="head_bkg_highlight2">head/head_bkg_highlight2.png</file>
+        <file alias="edit_frame_hover">edit_line/edit_frame_hover.png</file>
+        <file alias="edit_frame_normal">edit_line/edit_frame_normal.png</file>
+        <file alias="psw_hover">edit_line/psw_hover.png</file>
+        <file alias="psw_normal">edit_line/psw_normal.png</file>
+        <file alias="qqnum_hover">edit_line/qqnum_hover.png</file>
+        <file alias="qqnum_normal">edit_line/qqnum_normal.png</file>
+        <file alias="checkbox_hover">checkbox/checkbox_hover.png</file>
+        <file alias="checkbox_normal">checkbox/checkbox_normal.png</file>
+        <file alias="checkbox_press">checkbox/checkbox_press.png</file>
+        <file alias="checkbox_tick_highlight">checkbox/checkbox_tick_highlight.png</file>
+        <file alias="checkbox_tick_normal">checkbox/checkbox_tick_normal.png</file>
+        <file alias="checkbox_tick_pushed">checkbox/checkbox_tick_pushed.png</file>
+        <file alias="button_login_down">button_login_down.png</file>
+        <file alias="button_login_hover">button_login_hover.png</file>
+        <file alias="button_login_normal">button_login_normal.png</file>
+    </qresource>
+</RCC>
