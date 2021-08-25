@@ -30,7 +30,7 @@
 
 ## UI设计
 - 客服端整体UI设计图如下：
-	![](./Screenshots/(MainUI.jpg)
+	![](./Screenshots/MainUI.jpg)
 - 登录界面模仿腾讯QQ实现，背景是通过贴图实现的。
 	![](./Screenshots/Snipaste_2019-05-27_10-33-01.jpg)
 - 登录界面点击设置按钮也会有一个旋转的效果，如下：
