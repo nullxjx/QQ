@@ -30,17 +30,17 @@
 
 ## UI设计
 - 客服端整体UI设计图如下：
-	![](./Screenshots/MainUI.jpg)
+![MainUI](./Screenshots/MainUI.jpg)
 - 登录界面模仿腾讯QQ实现，背景是通过贴图实现的。
-	![](./Screenshots/Snipaste_2019-05-27_10-33-01.jpg)
+![](./Screenshots/Snipaste_2019-05-27_10-33-01.jpg)
 - 登录界面点击设置按钮也会有一个旋转的效果，如下：
-	![](./Screenshots/20201223_163945.gif)
+![](./Screenshots/20201223_163945.gif)
 - 聊天列表界面模仿微信界面，整体基于QListWidget实现，内部的每个聊天格子基于Qwidget重绘实现，能够显示好友，群聊天消息，点击可以进入右边的聊天界面
-	![](./Screenshots/Snipaste_2019-06-09_10-57-21.jpg)
+![](./Screenshots/Snipaste_2019-06-09_10-57-21.jpg)
 - 联系人界面模仿QQ界面，基于QStackedWidget类和QListWidget类实现，能够实现好友联系人列表和群列表之间的切换，能够实现分组显示，同时能够折叠和展开
-	![](./Screenshots/fold.png)
+![](./Screenshots/friends_list.png)
 - 聊天框界面模仿微信界面，基于QListWidget实现，能够容纳多种消息类型，并且具有很强的拓展性，能够容纳后续添加的新的类型的消息。目前能显示文字，图片，文件，系统消息等。
-	![](./Screenshots/Snipaste_2019-05-24_21-39-31.jpg)
+![](./Screenshots/Snipaste_2019-05-24_21-39-31.jpg)
 
 ## 数据库设计
 - 为了减少访问服务器的频率，需要在本地缓存一些信息，客户端也需要设计数据库，目前客户端只设计了4张表
