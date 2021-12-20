@@ -144,6 +144,7 @@ tcpSocket->write(document.toJson(QJsonDocument::Indented));
 文件传输采用Tcp协议进行，因为要保证文件不会丢失任何一个字节或者任何一位错乱。
 
 文件发送过程如下：
+
 ![](./Screenshots/Snipaste_2020-12-23_17-06-39.png)
 
 文件发送格式如下：
