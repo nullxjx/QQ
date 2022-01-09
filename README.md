@@ -336,8 +336,6 @@ void ClientSocket::sltReadyRead()
 
 其中不同的函数负责处理不同类型的消息。
 
-## At last
-整个程序也是边学学边做的，期间也参考了一些网上的代码，所以现在发出来也是为了让大家一起学习。
 
 [database1]: ./Screenshots/database1.png
 [database2]: ./Screenshots/database2.png
